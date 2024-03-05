@@ -123,6 +123,12 @@ ZLIB_EXTERNAL = NO
 #ZLIB_INCLUDE =
 #ZLIB_LIB     =
 
+# PYLON is required for the ADPylon driver
+# Change these variables to point at your local installation
+#WITH_PYLON = YES
+#PYLON_INCLUDE = /opt/pylon/include
+#PYLON_LIB = /opt/pylon/lib
+
 # ARAVIS is required for aravisGigE and ADAravis
 # Only available on Linux
 #ARAVIS_LIB      = /usr/local/lib
