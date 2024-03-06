@@ -123,7 +123,7 @@ ZLIB_EXTERNAL = NO
 #ZLIB_INCLUDE =
 #ZLIB_LIB     =
 
-# PYLON is required for the ADPylon driver
+# Pylon is required for the ADPylon driver
 # Change these variables to point at your local installation
 #WITH_PYLON = YES
 #PYLON_INCLUDE = /opt/pylon/include
